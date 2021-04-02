@@ -1,0 +1,27 @@
+
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(æª©ûÿÿÿÿ8ì¥Ûõˆ/
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Àö³õˆ/
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(æØÛÿÿÿÿÿ8Ï°áõˆ/
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(¸›í»ıÿÿÿÿ8ú¾¶õˆ/
+U	java:S106="9Replace this use of System.out or System.err by a logger.(è‚¤§8±êçõˆ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡šĞìıÿÿÿÿ8§‹Š§ˆ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(º¿ù¾8§‹Š§ˆ/
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(¡–ªşÿÿÿÿ8Ê€™öˆ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(è¹Õıÿÿÿÿ8¥ç„§ˆ/
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(ú²ô­úÿÿÿÿ8Ê€™öˆ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ˆšÑÖüÿÿÿÿ8õ·‚§ˆ/
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ÒÙÃé8†µ´õˆ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¡²ÿ³8®éƒ§ˆ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(öÚçùÿÿÿÿ8Ú‡§ˆ/
+V
+java:S2130>"9Use "Integer.parseInt" for this string-to-int conversion.(³’Á8ì¿öˆ/
+?
+java:S2386
+"Make this member "protected".(½÷Ôÿÿÿÿÿ8¦¿¹÷ˆ/
+C	java:S131""Add a default case to this switch.(§Í‡­ùÿÿÿÿ8š—‘§ˆ/
+W
+java:S1118":Add a private constructor to hide the implicit public one.(¯°ôÑ8ÆÕı¦ˆ/
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(Ú°™û8«Ëõˆ/
+`
+java:S1155V">Use isEmpty() to check whether the collection is empty or not.(çêş®ıÿÿÿÿ8ìÀ÷ˆ/
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(Ö¤ôş8‡—Ïõˆ/

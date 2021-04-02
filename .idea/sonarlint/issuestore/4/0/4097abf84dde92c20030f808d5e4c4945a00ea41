@@ -1,0 +1,20 @@
+
+W
+java:S1118
+":Add a private constructor to hide the implicit public one.(‹¤°°8ÁëƒÑˆ/
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(Ò«¶Ò8¹Ïùˆ/
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(§ß’ùÿÿÿÿ8ÃÚÉøˆ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Áÿµÿıÿÿÿÿ8˜Ò…Ñˆ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ˆšÑÖüÿÿÿÿ8˜Ò…Ñˆ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æÓµ ùÿÿÿÿ8û¹´Ñˆ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(÷ĞÏÇúÿÿÿÿ8˜Ò…Ñˆ/
+C	java:S131""Add a default case to this switch.(§Í‡­ùÿÿÿÿ8˜Ò…Ñˆ/
+U	java:S106W"9Replace this use of System.out or System.err by a logger.(ú¡ƒ8î·ùˆ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ëëôÏûÿÿÿÿ8˜Ò…Ñˆ/
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(Ûæ¯·8Åø“øˆ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(º¿ù¾8˜Ò…Ñˆ/
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(’²¾¤8Øî’øˆ/
+V
+java:S2130H"9Use "Integer.parseInt" for this string-to-int conversion.(·Ëà8Ùµæøˆ/
+X	java:S125["<This block of commented-out lines of code should be removed.(Ùí×ä8úšòùˆ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Â¢‰Ñ8˜Ò…Ñˆ/

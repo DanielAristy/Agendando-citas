@@ -1,0 +1,19 @@
+
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ûÌà‹8ûÊÅõˆ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñ”‹«úÿÿÿÿ8ú—ê¦ˆ/
+:
+java:S2386"Make this member "protected".(ûÌà‹8ûÊÅõˆ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(öÎËé8Ÿ†¶Å„/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¡²ÿ³8ú—ê¦ˆ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ù›êƒ8ú—ê¦ˆ/
+t
+java:S37760"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÎÏÉşÿÿÿÿ8·Òï¦ˆ/
+W
+java:S1118	":Add a private constructor to hide the implicit public one.(†•ö‚8Ÿ†¶Å„/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÙŠñ‚úÿÿÿÿ8Ÿ†¶Å„/
+T	java:S106+"9Replace this use of System.out or System.err by a logger.(« İ8ú—ê¦ˆ/
+T	java:S1069"9Replace this use of System.out or System.err by a logger.(“ö¤?8éÏúÑˆ/
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(›í“ìşÿÿÿÿ8·ÎéĞˆ/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ª£›?8Ÿ†¶Å„/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(î‰çËÿÿÿÿÿ8ú—ê¦ˆ/

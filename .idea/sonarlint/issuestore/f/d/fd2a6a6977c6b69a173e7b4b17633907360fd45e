@@ -1,0 +1,12 @@
+
+H
+java:S1172I"+Remove this unused method parameter "DATE".(ŠØÆé8åŠÎøˆ/
+~	java:S1163"bRename this field "id_availableAppointment" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁĞÂ8öí¢¼†/
+[
+java:S1128">Remove this unused import 'java.util.logging.SimpleFormatter'.(ÇöÁ8…“§öˆ/
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(İÂëµşÿÿÿÿ8°’¶¥ˆ/
+o	java:S100E"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°„¾½üÿÿÿÿ8öí¢¼†/
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(¿åö¨úÿÿÿÿ8şÂµ¥ˆ/
+r	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°„¾½üÿÿÿÿ8Œı‘†/
+m	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠØÆé8åŠÎøˆ/
+j	java:S100A"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ğ„…8öí¢¼†/
